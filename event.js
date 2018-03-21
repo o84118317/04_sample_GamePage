@@ -1,0 +1,1 @@
+let signal = document.getElemwntsByClassName;
