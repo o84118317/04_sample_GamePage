@@ -10,3 +10,4 @@ if (answer < 18) {
 } else {
 	alert ('Welcome');
 }
+
